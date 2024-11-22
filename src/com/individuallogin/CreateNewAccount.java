@@ -27,5 +27,7 @@ public class CreateNewAccount {  //class
 		c.emailId();
 		c.password();
 		c.phoneNumber();
+		
+		System.out.println("java selenium");
 	}
 }
